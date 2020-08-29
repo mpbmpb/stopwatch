@@ -70,7 +70,10 @@
   <img src="/gitAssets/code.jpg" width="480" height="300">
 </p>
 This is a short console app written as an exercise given in de udemy course C# Intermediate by Mosh Hamedani.
-<br.>
+<br/>
+It is a simple stopwatch app with a short test that prints to the console.
+<br/>
+<br/>
 I wrote all of the exercises for this course using the TDD approach of writing tests first and then production code.
 The tests are written using xUnit and Fluent Assertions.
 
