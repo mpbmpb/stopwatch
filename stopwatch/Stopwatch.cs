@@ -5,6 +5,10 @@ namespace stopwatch
     public class Stopwatch
     {
         private DateTime? _startTime;
+        private bool IsRunning
+        {
+            get { return _startTime != null; }
+        }
 
         public Stopwatch()
         {
@@ -13,7 +17,7 @@ namespace stopwatch
 
         public void Start()
         {
-            if (IsRunning())
+            if (IsRunning)
                 throw new NullReferenceException("Stopwatch is already running.");
 
             _startTime = DateTime.Now;
@@ -21,15 +25,12 @@ namespace stopwatch
 
         public TimeSpan Stop()
         {
-            if (!IsRunning())
+            if (!IsRunning)
                 throw new NullReferenceException("Stopwatch is not running.");
 
             var duration = DateTime.Now - (DateTime)_startTime;
             _startTime = null;
             return duration;
         }
-
-        private bool IsRunning() =>
-            _startTime != null;
     }
 }
