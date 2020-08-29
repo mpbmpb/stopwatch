@@ -27,7 +27,7 @@
 
   <p align="center">
     <a href="https://www.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop">
-    <img src="/gitAssets/c#intermediate.jpg" height="67" width="120"></a>
+    <img src="/gitAssets/c#intermediate.jpg"></a>
     <br />
     <br />
     A coding exercise from the udemy course C# intermediate
@@ -64,7 +64,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p align="center">
-![Product Name Screen Shot][product-screenshot]
+[![Product Name Screen Shot][product-screenshot]]
 </p>
 
 This is a short console app written as an exercise given in de udemy course C# Intermediate by Mosh Hamedani.
