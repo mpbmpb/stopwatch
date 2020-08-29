@@ -79,7 +79,7 @@ Thank you Mosh Hamedani for making a comprehensive and easy to follow course. :s
 A list of commonly used resources that I found helpful are listed in the acknowledgements.
 
 ### Built With
-The code was written in Visual Studio.
+The code was written in Visual Studio.<br/>
 The test coverage was measured with JetBrains dotCover.
 
 * [Visual Studio](https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2019)
