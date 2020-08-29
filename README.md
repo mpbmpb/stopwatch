@@ -30,8 +30,8 @@
     <img src="/gitAssets/csharpintermediate.jpg"></a>
     <br />
     <br />
-    A coding exercise from the udemy course C# intermediate
     <br />
+    A coding exercise from the udemy course C# intermediate
     <br />
     <a href="https://www.udemy.com"><img src="/gitAssets/udemylogo.svg" height="90" width="90"></a>
     <br />
@@ -63,7 +63,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<img src="/gitAssets/code.jpg" width="480" height="300">
+<img src="/gitAssets/code.jpg" width="480" height="300" align="center">
 
 This is a short console app written as an exercise given in de udemy course C# Intermediate by Mosh Hamedani.
 
