@@ -26,14 +26,15 @@
   <h3 align="center">Stopwatch</h3>
 
   <p align="center">
-    A coding exercise from the udemy course C# intermediate, by Mosh Hamedani
-    <br />
     <a href="https://www.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop">
-    <img src="https://img-a.udemycdn.com/course/240x135/383576_fd27_3.jpg" height="67" width="120"></a>
+    <img src="/gitAssets/c#intermediate.jpg" height="67" width="120"></a>
     <br />
     <br />
-    <a href="https://www.udemy.com"><img src="https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg" height="90" width="90"></a>
-    ·
+    A coding exercise from the udemy course C# intermediate
+    <br />
+    <br />
+    <a href="https://www.udemy.com"><img src="/gitAssets/udemylogo.svg" height="90" width="90"></a>
+    <br />
     <a href="https://github.com/mpbmpb/stopwatch/issues">Report Bug</a>
     ·
     <a href="https://github.com/mpbmpb/stopwatch/issues">Request Feature</a>
@@ -63,7 +64,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p align="center">
-[Product Name Screen Shot][product-screenshot]
+![Product Name Screen Shot][product-screenshot]
 </p>
 
 This is a short console app written as an exercise given in de udemy course C# Intermediate by Mosh Hamedani.
@@ -178,6 +179,8 @@ Project Link: [https://github.com/mpbmpb/stopwatch](https://github.com/mpbmpb/st
 * [GitHub Pages](https://pages.github.com)
 * [flaticon](https://www.flaticon.com)
 * [unsplash](https://unsplash.com)
+* <span>Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Markus Spiske</a> on <a href="https://unsplash.com/s/photos/code?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+* <div>Icons made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> 
 
 
 
@@ -186,15 +189,15 @@ Project Link: [https://github.com/mpbmpb/stopwatch](https://github.com/mpbmpb/st
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-url]: https://github.com/mpbmpb/stopwatch/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[forks-url]: https://github.com/mpbmpb/stopwatch/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[stars-url]: https://github.com/mpbmpb/stopwatch/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[issues-url]: https://github.com/mpbmpb/stopwatch/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/mpbmpb/stopwatch/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: www.linkedin.com/in/mark-van-den-beemt-7805011b1
 [product-screenshot]: https://source.unsplash.com/qjnAnF0jIGk/480x300
