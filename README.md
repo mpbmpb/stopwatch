@@ -63,8 +63,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<img src="/gitAssets/code.jpg" width="480" height="300" align="center">
-
+<p align="center">
+  <img src="/gitAssets/code.jpg" width="480" height="300">
+</p>
 This is a short console app written as an exercise given in de udemy course C# Intermediate by Mosh Hamedani.
 
 I wrote all of the exercises for this course using the TDD approach of writing tests first and then production code.
