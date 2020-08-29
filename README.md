@@ -79,11 +79,14 @@ Thank you Mosh Hamedani for making a comprehensive and easy to follow course. :s
 A list of commonly used resources that I found helpful are listed in the acknowledgements.
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+The code was written in Visual Studio
+The test coverage was measured with JetBrains dotCover
+
 * [Visual Studio](https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2019)
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp)
 * [xUnit](https://xunit.net)
 * [Fluent Assertions](https://fluentassertions.com/)
+* [dotCover](https://www.jetbrains.com/dotcover/)
 
 ### Specifications
 The given specifications were:
