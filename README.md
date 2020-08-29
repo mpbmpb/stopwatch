@@ -27,7 +27,7 @@
 
   <p align="center">
     <a href="https://www.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop">
-    <img src="/gitAssets/c#intermediate.jpg"></a>
+    <img src="/gitAssets/csharpintermediate.jpg"></a>
     <br />
     <br />
     A coding exercise from the udemy course C# intermediate
