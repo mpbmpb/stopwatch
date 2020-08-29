@@ -63,9 +63,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<div align="center">
-![Product Name Screen Shot][product-screenshot]
-</div>
+<img src="/gitAssets/code.jpg" width="480" height="300">
 
 This is a short console app written as an exercise given in de udemy course C# Intermediate by Mosh Hamedani.
 
