@@ -76,7 +76,8 @@ It is a simple stopwatch app with a short test that prints to the console.
 <br/>
 I wrote all of the exercises for this course using the TDD approach of writing tests first and then production code.
 The tests are written using xUnit and Fluent Assertions.
-
+<br/>
+<br/>
 Thank you Mosh Hamedani for making a comprehensive and easy to follow course. :star:
 
 A list of commonly used resources that I found helpful are listed in the acknowledgements.
