@@ -1,6 +1,5 @@
 using System;
 using Xunit;
-using stopwatch;
 using FluentAssertions;
 using System.Threading;
 

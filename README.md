@@ -7,11 +7,14 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+[![Coverage][coverage-shield]]
+[![Tests][tests-shield]]
+[![GitHub code size in bytes][codesize-shield]]
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -67,7 +70,7 @@
   <img src="/gitAssets/code.jpg" width="480" height="300">
 </p>
 This is a short console app written as an exercise given in de udemy course C# Intermediate by Mosh Hamedani.
-
+<br.>
 I wrote all of the exercises for this course using the TDD approach of writing tests first and then production code.
 The tests are written using xUnit and Fluent Assertions.
 
@@ -187,18 +190,16 @@ Project Link: [https://github.com/mpbmpb/stopwatch](https://github.com/mpbmpb/st
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[coverage-shield]: https://img.shields.io/badge/coverage-100%25-brightgreen
+[tests-shield]: https://img.shields.io/badge/tests-passing-brightgreen
+[contributors-shield]: https://img.shields.io/github/contributors/mpbmpb/stopwatch?color=blue&style=flat-square
 [contributors-url]: https://github.com/mpbmpb/stopwatch/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
-[forks-url]: https://github.com/mpbmpb/stopwatch/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[codesize-shield]: https://img.shields.io/github/languages/code-size/mpbmpb/stopwatch
+[stars-shield]: https://img.shields.io/github/stars/mpbmpb/stopwatch
 [stars-url]: https://github.com/mpbmpb/stopwatch/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/mpbmpb/stopwatch?style=flat-square
 [issues-url]: https://github.com/mpbmpb/stopwatch/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/mpbmpb/stopwatch
 [license-url]: https://github.com/mpbmpb/stopwatch/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: www.linkedin.com/in/mark-van-den-beemt-7805011b1
-[product-screenshot]: https://source.unsplash.com/qjnAnF0jIGk/480x300
-[product-svg]: https://source.unsplash.com/qjnAnF0jIGk/480x300
-

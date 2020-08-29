@@ -3,25 +3,25 @@ using System.Threading;
 
 namespace stopwatch
 {
-    class Program
+    static class Program
     {
         static void Main(string[] args)
         {
             var stopwatch = new Stopwatch();
 
-            void demo(int ms)
+            void Demo(int ms)
             {
                 Console.WriteLine("stopwatch start...");
                 stopwatch.Start();
                 Thread.Sleep(ms);
-                var duration = stopwatch.Stop();
+                var duration = stopwatch.Stop().ToString();
 
                 Console.WriteLine($"Duration: {duration}");
                 Console.WriteLine();
             }
 
-            demo(825);
-            demo(1672);
+            Demo(825);
+            Demo(1672);
 
             try
             {

@@ -4,11 +4,11 @@ namespace stopwatch
 {
     public class Stopwatch
     {
-        private DateTime? StartTime;
+        private DateTime? _startTime;
 
         public Stopwatch()
         {
-            StartTime = null;
+            _startTime = null;
         }
 
         public void Start()
@@ -16,7 +16,7 @@ namespace stopwatch
             if (IsRunning())
                 throw new NullReferenceException("Stopwatch is already running.");
 
-            StartTime = DateTime.Now;
+            _startTime = DateTime.Now;
         }
 
         public TimeSpan Stop()
@@ -24,12 +24,12 @@ namespace stopwatch
             if (!IsRunning())
                 throw new NullReferenceException("Stopwatch is not running.");
 
-            var duration = DateTime.Now - (DateTime)StartTime;
-            StartTime = null;
+            var duration = DateTime.Now - (DateTime)_startTime;
+            _startTime = null;
             return duration;
         }
 
         private bool IsRunning() =>
-            StartTime != null;
+            _startTime != null;
     }
 }
