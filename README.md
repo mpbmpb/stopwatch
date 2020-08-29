@@ -200,6 +200,6 @@ Project Link: [https://github.com/mpbmpb/stopwatch](https://github.com/mpbmpb/st
 [issues-shield]: https://img.shields.io/github/issues/mpbmpb/stopwatch?style=flat-square
 [issues-url]: https://github.com/mpbmpb/stopwatch/issues
 [license-shield]: https://img.shields.io/github/license/mpbmpb/stopwatch
-[license-url]: https://github.com/mpbmpb/stopwatch/blob/master/LICENSE.txt
+[license-url]: https://github.com/mpbmpb/stopwatch/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: www.linkedin.com/in/mark-van-den-beemt-7805011b1
+[linkedin-url]: https://www.linkedin.com/in/mark-van-den-beemt-7805011b1/
