@@ -63,9 +63,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<p align="center">
-[![Product Name Screen Shot][product-screenshot]]
-</p>
+<div align="center">
+![Product Name Screen Shot][product-screenshot]
+</div>
 
 This is a short console app written as an exercise given in de udemy course C# Intermediate by Mosh Hamedani.
 
