@@ -26,7 +26,7 @@
    <img src="/gitAssets/time.svg" height="100" width="100">
 </a>
 
-  <h3 align="center">Stopwatch</h3>
+  <h1 align="center">Stopwatch</h1>
 
   <p align="center">
     <a href="https://www.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop">
